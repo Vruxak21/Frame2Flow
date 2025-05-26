@@ -1,34 +1,26 @@
+<div align="center">
+
 # FRAME2FLOW
 
-<div align="center">
-  <em>Transforming designs into code, effortlessly and intuitively.</em>
-</div>
+*Transforming designs into code, effortlessly and intuitively*
 
-<div align="center">
-  
-  ![Last Commit](https://img.shields.io/github/last-commit/Vruxak21/Frame2Flow?style=flat-square&color=blue&label=last%20commit)
-  ![TypeScript](https://img.shields.io/github/languages/top/Vruxak21/Frame2Flow?style=flat-square&color=blue&label=typescript)
-  ![Languages](https://img.shields.io/github/languages/count/Vruxak21/Frame2Flow?style=flat-square&color=blue&label=languages)
+![Last Commit](https://img.shields.io/github/last-commit/Vruxak21/Frame2Flow?style=flat-square&color=blue&label=last%20commit)
+![TypeScript](https://img.shields.io/github/languages/top/Vruxak21/Frame2Flow?style=flat-square&color=blue&label=typescript)
+![Languages](https://img.shields.io/github/languages/count/Vruxak21/Frame2Flow?style=flat-square&color=blue&label=languages)
 
-</div>
+## Built with the tools and technologies:
 
-<div align="center">
-  <em>Built with the tools and technologies:</em>
-</div>
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![PostCSS](https://img.shields.io/badge/PostCSS-DD3A0A?style=flat-square&logo=postcss&logoColor=white)
+![ENV](https://img.shields.io/badge/ENV-4B4B4D?style=flat-square)
 
-<div align="center">
-  
-  ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
-  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-  ![PostCSS](https://img.shields.io/badge/PostCSS-DD3A0A?style=flat-square&logo=postcss&logoColor=white)
-  ![ENV](https://img.shields.io/badge/ENV-4B4B4D?style=flat-square)
-  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-  ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-  ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
 
 </div>
 
