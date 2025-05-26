@@ -141,7 +141,7 @@ function ImageUpload() {
 
       <div className="mt-10 flex items-center justify-center">
         <Button onClick={OnConvertToCodeButtonClick} disabled={loading}>
-          {loading? <Loader2Icon className="animate-spin"/> : <WandSparkles /> } Conver to Code
+          {loading? <Loader2Icon className="animate-spin"/> : <WandSparkles /> } Convert to Code
         </Button>
       </div>
     </div>
