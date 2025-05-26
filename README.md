@@ -6,9 +6,9 @@
 
 <div align="center">
   
-  ![Last Commit](https://img.shields.io/github/last-commit/YourUsername/Frame2Flow?style=flat-square&color=blue&label=last%20commit)
-  ![TypeScript](https://img.shields.io/github/languages/top/YourUsername/Frame2Flow?style=flat-square&color=blue&label=typescript)
-  ![Languages](https://img.shields.io/github/languages/count/YourUsername/Frame2Flow?style=flat-square&color=blue&label=languages)
+  ![Last Commit](https://img.shields.io/github/last-commit/Vruxak21/Frame2Flow?style=flat-square&color=blue&label=last%20commit)
+  ![TypeScript](https://img.shields.io/github/languages/top/Vruxak21/Frame2Flow?style=flat-square&color=blue&label=typescript)
+  ![Languages](https://img.shields.io/github/languages/count/Vruxak21/Frame2Flow?style=flat-square&color=blue&label=languages)
 
 </div>
 
