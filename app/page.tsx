@@ -85,10 +85,20 @@ export default function Home() {
               </span>
             </h1> */}
             <h1 className="block font-bold text-gray-800 text-4xl md:text-5xl lg:text-6xl dark:text-neutral-200">
-              Turn Designs into Code Instantly –
+              Turn Designs into Code Instantly - From
               <span className="bg-clip-text bg-gradient-to-tl from-blue-600 to-violet-600 text-transparent">
                 {" "}
-                From Wireframe to Flow with AI
+                Wireframe
+              </span>{" "}
+              to
+              <span className="bg-clip-text bg-gradient-to-tl from-blue-600 to-violet-600 text-transparent">
+                {" "}
+                Flow
+              </span>
+              with
+              <span className="bg-clip-text bg-gradient-to-tl from-blue-600 to-violet-600 text-transparent">
+                {" "}
+                AI
               </span>
             </h1>
           </div>
