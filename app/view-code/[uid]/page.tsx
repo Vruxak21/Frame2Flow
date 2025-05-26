@@ -113,7 +113,6 @@ function ViewCode() {
           {loading ? (
             <div>
               <h2 className="font-bold text-2xl text-center p-20 flex items-center justify-center bg-slate-100 h-[80vh] rounded-xl gap-2">
-                {" "}
                 <Loader2 className="animate-spin" />
                 Analyzing the Wireframe...
               </h2>
