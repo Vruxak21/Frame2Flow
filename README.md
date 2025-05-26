@@ -8,7 +8,7 @@
 ![TypeScript](https://img.shields.io/github/languages/top/Vruxak21/Frame2Flow?style=flat-square&color=blue&label=typescript)
 ![Languages](https://img.shields.io/github/languages/count/Vruxak21/Frame2Flow?style=flat-square&color=blue&label=languages)
 
-## Built with the tools and technologies:
+*Built with the tools and technologies:*
 
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
