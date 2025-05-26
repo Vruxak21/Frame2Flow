@@ -108,7 +108,7 @@ function ImageUpload() {
         <div className="p-7 border shadow-md rounded-lg">
           <h2 className="font-bold text-lg">Select AI Model</h2>
           <Select onValueChange={(value) => setModel(value)}>
-            <SelectTrigger className="w-full">
+            <SelectTrigger className="w-full mt-3">
               <SelectValue placeholder="Select AI Model" />
             </SelectTrigger>
             <SelectContent>

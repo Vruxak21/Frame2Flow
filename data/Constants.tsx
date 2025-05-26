@@ -63,7 +63,7 @@ FINAL REMINDER:
       modelName: "google/gemini-2.0-flash-exp:free",
     },
     {
-      name: "llama By Meta",
+      name: "Llama By Meta",
       icon: "/meta.png",
       modelName: "meta-llama/llama-4-maverick:free",
     },

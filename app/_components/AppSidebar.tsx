@@ -14,6 +14,7 @@ import {
 import { CircleDollarSign, Home, Paintbrush } from "lucide-react"
 import Image from 'next/image'
 import { usePathname } from 'next/navigation'
+import Link from 'next/link'
 
 const items = [
     {
@@ -26,11 +27,6 @@ const items = [
         url: "/designs",
         icon: Paintbrush,
     },
-    {
-        title: "Credits",
-        url: "/credits",
-        icon: CircleDollarSign,
-    },
 ]
 
 export function AppSidebar() {
@@ -40,9 +36,9 @@ export function AppSidebar() {
         <Sidebar>
             <SidebarHeader>
                 <div className='p-4'>
-                    <Image src={'./logo.svg'} alt='logo' width={100} height={100}
-                        className='w-full h-full' />
-                    <h2 className='text-sm text-gray-400 text-center'>Build Awesome</h2>
+                    <Link href={'/'}>
+                        <Image src={"/logo.png"} alt="logo" width={200} height={200} />
+                    </Link>
                 </div>
             </SidebarHeader>
             <SidebarContent>
