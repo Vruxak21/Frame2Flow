@@ -8,7 +8,6 @@ import React from "react";
 function DesignCard({ item }: any) {
   const modelObj =
     item && Constants.AiModelList.find((x) => x.name == item?.model);
-  
   return (
     <div className="p-5 border rounded-lg">
       <Image
@@ -26,21 +25,16 @@ function DesignCard({ item }: any) {
         <div className="flex justify-between items-center mt-4">
           <div className="flex items-center gap-2 p-2 bg-gray-50 rounded-full">
             {modelObj && (
-              <>
-                <Image
-                  src={modelObj?.icon}
-                  alt={modelObj?.modelName ?? ""}
-                  width={30}
-                  height={30}
-                />
-                <h2>{modelObj.name}</h2>
-              </>
+              <Image
+                src={modelObj?.icon}
+                alt={modelObj?.modelName ?? ""}
+                width={30}
+                height={30}
+              />
             )}
-            {!modelObj && (
-              <h2 className="text-gray-500">Unknown Model</h2>
-            )}
+            <h2>{modelObj.name}</h2>
           </div>
-          <Link href={'/view-code/' + item?.uid}>
+          <Link href={'/view-code/'+item?.uid}>
             <Button>
               <Code2 /> View Code
             </Button>
