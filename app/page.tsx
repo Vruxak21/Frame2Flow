@@ -94,7 +94,7 @@ export default function Home() {
               <span className="bg-clip-text bg-gradient-to-tl from-blue-600 to-violet-600 text-transparent">
                 {" "}
                 Flow
-              </span>
+              </span>{" "}
               with
               <span className="bg-clip-text bg-gradient-to-tl from-blue-600 to-violet-600 text-transparent">
                 {" "}
