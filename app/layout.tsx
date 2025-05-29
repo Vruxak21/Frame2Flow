@@ -26,7 +26,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <link rel="icon" href="./logo2.png" />
+        <link rel="icon" href={'/logo2.png'} />
       </head>
       <body
         className={outfit.className}
